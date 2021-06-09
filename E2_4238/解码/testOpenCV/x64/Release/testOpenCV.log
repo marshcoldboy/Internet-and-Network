@@ -1,0 +1,31 @@
+﻿  AlignPatternFinder.cpp
+d:\vs代码集\testopencv\testopencv\alignpatternfinder.cpp(92): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  DataTranslation.cpp
+d:\vs代码集\testopencv\testopencv\datatranslation.cpp(72): warning C4244: “return”: 从“unsigned long”转换到“short”，可能丢失数据
+d:\vs代码集\testopencv\testopencv\datatranslation.cpp(79): warning C4101: “j”: 未引用的局部变量
+  Detector.cpp
+d:\vs代码集\testopencv\testopencv\detector.cpp(26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vs代码集\testopencv\testopencv\detector.cpp(96): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+  FinderPatternFinder.cpp
+d:\vs代码集\testopencv\testopencv\finderpatternfinder.cpp(99): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs代码集\testopencv\testopencv\finderpatternfinder.cpp(135): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs代码集\testopencv\testopencv\finderpatternfinder.cpp(161): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs代码集\testopencv\testopencv\finderpatternfinder.cpp(314): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  slicer.cpp
+d:\vs代码集\testopencv\testopencv\slicer.cpp(17): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+d:\vs代码集\testopencv\testopencv\slicer.cpp(27): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  VedioGenerator.cpp
+d:\vs代码集\testopencv\testopencv\vediogenerator.cpp(82): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  源.cpp
+d:\vs代码集\testopencv\testopencv\源.cpp(19): warning C4244: “初始化”: 从“int64”转换到“int”，可能丢失数据
+d:\vs代码集\testopencv\testopencv\源.cpp(77): warning C4244: “初始化”: 从“int64”转换到“int”，可能丢失数据
+  正在生成代码
+  718 of 722 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    410 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  testOpenCV.vcxproj -> D:\VS代码集\testOpenCV\x64\Release\testOpenCV.exe

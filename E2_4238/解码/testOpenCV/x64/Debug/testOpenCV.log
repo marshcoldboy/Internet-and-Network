@@ -1,0 +1,15 @@
+﻿  FileToVedio.cpp
+d:\vs代码集\计网项目一\filetovedio.cpp(19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs代码集\计网项目一\filetovedio.cpp(105): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\vs代码集\计网项目一\filetovedio.cpp(151): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\vs代码集\计网项目一\filetovedio.cpp(214): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\vs代码集\计网项目一\filetovedio.cpp(215): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  testOpenCV.vcxproj -> D:\VS代码集\testOpenCV\x64\Debug\testOpenCV.exe
