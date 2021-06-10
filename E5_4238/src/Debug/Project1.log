@@ -1,0 +1,21 @@
+﻿  Server.cpp
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(18,17): error C2440: “return”: 无法从“const char [6]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(18,10): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(21,15): error C2440: “return”: 无法从“const char [5]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(21,9): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(34,41): error C2664: “size_t strlen(const char *)”: 无法将参数 1 从“int [11]”转换为“const char *”
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(34,29): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(219,16): message : 参见“strlen”的声明
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(40,31): error C2440: “初始化”: 无法从“const char [11]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(40,17): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(110,61): error C2440: “=”: 无法从“const char [33]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(110,16): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(121,38): error C2440: “=”: 无法从“const char [19]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(121,18): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(128,48): error C2440: “=”: 无法从“const char [29]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(128,18): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(141,24): error C2440: “=”: 无法从“const char [5]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(141,18): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(158,41): error C2440: “=”: 无法从“const char [21]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(158,19): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\Project1\Server.cpp(106,19): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
