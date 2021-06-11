@@ -1,0 +1,50 @@
+﻿  proxy.cpp
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(58,99): error C2440: “初始化”: 无法从“const char [17]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(58,20): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(58,99): error C2440: “初始化”: 无法从“const char [16]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(58,40): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(58,99): error C2440: “初始化”: 无法从“const char [20]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(58,59): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(58,99): error C2440: “初始化”: 无法从“const char [15]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(58,82): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(62,45): error C2440: “初始化”: 无法从“const char [19]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(62,23): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(63,62): error C2440: “初始化”: 无法从“const char [14]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(63,22): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(63,62): error C2440: “初始化”: 无法从“const char [22]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(63,38): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(224,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(228,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(232,24): error C2440: “初始化”: 无法从“const char [9]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(232,12): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(233,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(238,23): error C2440: “初始化”: 无法从“const char [7]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(238,13): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(239,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(242,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(258,31): warning C4018: “>”: 有符号/无符号不匹配
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(284,36): error C2440: “初始化”: 无法从“const char [20]”转换为“char *”
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(284,13): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(288,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(293,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387,1): error C2362: “goto cun”跳过了“error”的初始化操作
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(345): message : 参见“cun”的声明
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387): message : 参见“error”的声明
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387,1): error C2362: “goto p”跳过了“error”的初始化操作
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(344): message : 参见“p”的声明
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387): message : 参见“error”的声明
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387,1): error C2362: “goto delim”跳过了“error”的初始化操作
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(340): message : 参见“delim”的声明
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387): message : 参见“error”的声明
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387,1): error C2362: “goto chacheBuff”跳过了“error”的初始化操作
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(337): message : 参见“chacheBuff”的声明
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387): message : 参见“error”的声明
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387,1): error C2362: “goto find”跳过了“error”的初始化操作
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(263): message : 参见“find”的声明
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387): message : 参见“error”的声明
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387,1): error C2362: “goto change”跳过了“error”的初始化操作
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(191): message : 参见“change”的声明
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387): message : 参见“error”的声明
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387,1): error C2362: “goto httpHeader”跳过了“error”的初始化操作
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(187): message : 参见“httpHeader”的声明
+D:\z件\woo\计网\pro1\exp5\socks_proxy\proxy.cpp(387): message : 参见“error”的声明
